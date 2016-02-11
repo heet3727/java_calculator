@@ -1,4 +1,9 @@
-	import java.awt.BorderLayout;
+/* Created by Heet ( @heet3727 )
+ * See github link: https://github.com/heet3727/java_calculator
+ * Feb 11th, 2016
+ */
+ 
+ 	import java.awt.BorderLayout;
 	import java.awt.Color;
 	import java.awt.Container;
 	import java.awt.FlowLayout;
